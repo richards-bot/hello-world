@@ -1,2 +1,15 @@
 # hello-world
-Hello world starter repo
+
+Minimal Go hello-world app with CI.
+
+## Run
+
+```bash
+go run .
+```
+
+## Test
+
+```bash
+go test ./...
+```
